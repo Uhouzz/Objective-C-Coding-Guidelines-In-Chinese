@@ -21,7 +21,7 @@ Objective-C是一门面向对象的动态编程语言，主要用于编写iOS和
 
 ###每一行的最大长度
 
-同样的，在`Xcode > Preferences > Text Editing > Page guide at column:`中将最大行长设置为**80**，过长的一行代码将会导致可读性问题。
+同样的，在`Xcode > Preferences > Text Editing > Page guide at column:`中将最大行长设置为**120**，过长的一行代码将会导致可读性问题。
 
 ###函数的书写
 
